@@ -1,0 +1,22 @@
+.satu{
+  width: 660px;
+  height: 250px;
+  overflow: scroll;
+  color: blue;
+  text-align: right;
+  background:url(../img/avocado.jpg);
+  background-repeat: repeat-y;
+  background-color: white;
+}
+body{
+  background: url(../img/borobudur.jpg);
+  background-size: cover;
+}
+.dua{
+  color:green;
+  text-align: left;
+}
+.tiga{
+  color:red;
+  text-align: right;
+}
